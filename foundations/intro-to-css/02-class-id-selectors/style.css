@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.pa {
+    background-color: rgb(248, 205, 205);
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+.second-element {
+    color: rgb(34, 34, 219);
+    font-size: 36px;
+}
+
+.third-element {
+    font-size: 24px;
+}
+
+.fourth-element {
+    background-color: rgb(23, 158, 23);
+    font-size: 24px;
+    font-weight: bold;
+}
